@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Maite Uralde]]></title>
         <description><![CDATA[Maite Uralde]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maite-uralde/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 17:04:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 17:09:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maite-uralde/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello and welcome</p>]]></description>
-            <link>undefined3a363796-1300-49ad-a6a0-32a8c9d91072/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb8e910a-57e2-47f5-ab9f-b553bc4708ea.jpg">]]></description>
+            <link>https://thegrid.ai/maite-uralde/3a363796-1300-49ad-a6a0-32a8c9d91072/index.html</link>
             <guid isPermaLink="false">3a363796-1300-49ad-a6a0-32a8c9d91072</guid>
-            <pubDate>Fri, 01 Apr 2016 17:04:44 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2016 17:09:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
