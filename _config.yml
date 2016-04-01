@@ -1,7 +1,7 @@
 name: Maite Uralde
 favicon: null
-layout_spectrum: 0.8658997600432485
-typography_spectrum: 0.1760013704188168
+layout_spectrum: 0.4914
+typography_spectrum: 0.4509
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.4257839578203857
-  lightness: 0.884365058504045
-  saturation: 0.013220823369920254
-  rhythmicContrast: 0.4937341255135834
+    - '#ffffff'
+    - '#f37268'
+    - '#1db6d5'
+    - '#fcbeaa'
+    - '#000000'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
